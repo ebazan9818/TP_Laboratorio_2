@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1557880091 source:c:\users\elles\desktop\tp2 bazan emanuel (1a)\arrayemployees.c
+	"arrayemployees.h"
+	"input.h"
+
+1557801044 c:\users\elles\desktop\tp2 bazan emanuel (1a)\arrayemployees.h
+
+1557881687 c:\users\elles\desktop\tp2 bazan emanuel (1a)\input.h
+
+1557881687 source:c:\users\elles\desktop\tp2 bazan emanuel (1a)\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1557881729 source:c:\users\elles\desktop\tp2 bazan emanuel (1a)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"arrayemployees.h"
+	"input.h"
+
+1559853955 source:c:\users\ellessar\desktop\tp2 bazan emanuel (1a)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"arrayEmployees.h"
+	"input.h"
+
+1559846679 c:\users\ellessar\desktop\tp2 bazan emanuel (1a)\arrayemployees.h
+
+1559846666 c:\users\ellessar\desktop\tp2 bazan emanuel (1a)\input.h
+
+1559685209 source:c:\users\ellessar\desktop\tp2 bazan emanuel (1a)\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1559854755 source:c:\users\ellessar\desktop\tp2 bazan emanuel (1a)\arrayemployees.c
+	"arrayemployees.h"
+	"input.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
